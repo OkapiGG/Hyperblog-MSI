@@ -1,11 +1,7 @@
 Recuerda que Git está optimizado para trabajar en equipo, por lo tanto, debemos darle un poco de
 
-información sobre nosotros. Si debemos hacerlo todas las veces que ejecutamos un comando, basta con
+información sobre nosotros. No debemos hacerlo todas las veces que ejecutamos un comando, basta con
 
 ejecutar solo una sola vez los siguientes comandos con tu información:
 
-Atte "OKAPI_GG"
-
-YouTube es un sitio web de origen estadounidense dedicado a compartir videos.
-Presenta una variedad de clips de películas, programas de televisión y vídeos musicales,
-así como contenidos amateur como videoblogs y YouTube Gaming.
+Elon Reeve Musk, conocido como Elon Musk, es un empresario, inversor y magnate sudafricano que también posee las nacionalidades canadiense y estadounidense
