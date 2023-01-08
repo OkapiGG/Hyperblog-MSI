@@ -5,3 +5,7 @@ información sobre nosotros. Si debemos hacerlo todas las veces que ejecutamos u
 ejecutar solo una sola vez los siguientes comandos con tu información:
 
 Atte "OKAPI_GG"
+
+YouTube es un sitio web de origen estadounidense dedicado a compartir videos.
+Presenta una variedad de clips de películas, programas de televisión y vídeos musicales,
+así como contenidos amateur como videoblogs y YouTube Gaming.
