@@ -3,10 +3,16 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-#subtittle{
-    color: brown;
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
 }
 
-p{
-    color: green;
+#container h1{
+    color: brown;
+    font-size: 25px;
 }
+
