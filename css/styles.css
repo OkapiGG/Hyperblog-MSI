@@ -1,5 +1,9 @@
 body{
-    color: cadetblue;
+    background: #1e1f24;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    color: black;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -19,6 +23,10 @@ body{
     font-size: 0.8em;
 }
 
+#cabecera #logo{
+    width: 60px;
+    vertical-align: middle;
+}
 
 #container{
     width: 70%;
@@ -31,5 +39,10 @@ body{
 #container h1{
     color: brown;
     font-size: 25px;
+}
+
+#post{
+    background: white;
+    padding: 1em;
 }
 
