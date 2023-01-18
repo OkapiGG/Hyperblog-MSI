@@ -18,5 +18,12 @@ Some Examples Of His Creations:
 
 - •YBFRL
 
+<<<<<<< HEAD
+=======
+- •MDMG
+
+- •JKLD
+
+>>>>>>> readme-mejorado
 [MSI](https://www.msi.com/index.php)
 
