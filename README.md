@@ -18,5 +18,7 @@ Some Examples Of His Creations:
 
 - •YBFRL
 
+- •MDMG
+
 [MSI](https://www.msi.com/index.php)
 
