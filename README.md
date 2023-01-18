@@ -20,5 +20,7 @@ Some Examples Of His Creations:
 
 - •MDMG
 
+- •JKLD
+
 [MSI](https://www.msi.com/index.php)
 
