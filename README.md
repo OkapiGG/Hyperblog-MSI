@@ -16,5 +16,7 @@ Some Examples Of His Creations:
 
 - •Gaming enthusiast and Gaming arsenal: They are also gaming-oriented boards with unlocked CPU capable chipsets, usually from previous generations.
 
+- •YBFRL
+
 [MSI](https://www.msi.com/index.php)
 
